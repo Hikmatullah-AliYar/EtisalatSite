@@ -92,7 +92,7 @@ nav {
   #bars {
     display: block;
     margin-left: auto;
-    margin-right: 20px;
+/*     margin-right: 20px; */
   }
 
   /* When checkbox is checked, show nav menu */
